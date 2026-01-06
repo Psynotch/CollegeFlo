@@ -42,4 +42,9 @@ It helps students manage their academic life by providing a clean, real‑time i
 ---
 
 ## 📸 Snapshots
-*(Insert screenshots of Timetable, Attendance, Assignments, Exams, and Events tabs here in phone mockup frames for a polished look.)*
+<img width="1080" height="1920" alt="Untitled design" src="https://github.com/user-attachments/assets/08e84838-5f1a-47ea-b793-6ec9a68842b4" />
+<img width="1080" height="1920<img width="1080" height="1920" alt="Untitled design (2)" src="https://github.com/user-attachments/assets/9760a400-427f-4d37-ba45-13396703bab8" />
+<img width="1080" height="1920" alt="Untitled design (2)" src="https://github.com/user-attachments/assets/734589d5-ae92-4f43-9ac0-ddde9912a6ac" />
+<img width="1080" height="1920" alt="Untitled design (3)" src="https://github.com/user-attachments/assets/3c03c42f-8ce2-45c1-a62b-61d907881e8b" />
+<img width="1080" height="1920" alt="Untitled design (4)" src="https://github.com/user-attachments/assets/5001da51-1c40-4252-9b0e-39e1d32ac8ab" />
+
