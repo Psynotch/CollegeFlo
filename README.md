@@ -1,6 +1,6 @@
-# CampusFlow
+# CampusFlo
 
-CampusFlow is a student productivity app built with **Flutter** and powered by **Firebase**.  
+CampusFlo is a student productivity app built with **Flutter** and powered by **Firebase**.  
 It helps students manage their academic life by providing a clean, real‑time interface for:
 
 - 📅 **Timetable Management** – View daily schedules with subject, room, and time details.
